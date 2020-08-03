@@ -1,12 +1,12 @@
 {
 	"flashcard": [
 		{
-			"source": "Oui",
-			"translation": "Yes"
-		},
-		{
 			"source": "Scaphandre",
 			"translation": "Diving Suit"
+		},
+		{
+			"source": "Oui",
+			"translation": "Yes"
 		},
 		{
 			"source": "Canard",
