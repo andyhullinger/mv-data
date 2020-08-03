@@ -5,12 +5,12 @@
 			"translation": "Yes"
 		},
 		{
-			"source": "Canard",
-			"translation": "Duck"
-		},
-		{
 			"source": "Scaphandre",
 			"translation": "Diving Suit"
+		},
+		{
+			"source": "Canard",
+			"translation": "Duck"
 		}
 	]
 }
