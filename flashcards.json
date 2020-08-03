@@ -1,6 +1,8 @@
 {
 	"flashcard": [
-		{},
+		{
+			"source": "Oui"
+		},
 		{
 			"source": "Canard",
 			"translation": "Duck"
